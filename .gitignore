@@ -1,6 +1,4 @@
 .DS_Store
-.vscode
-.env
 .venv
 .swp
 dist
@@ -16,3 +14,5 @@ llama/build
 llama/vendor
 /ollama
 integration/testdata/models/
+config.bat
+node_modules
